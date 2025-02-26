@@ -81,12 +81,12 @@ Clone this repository to your local machine.
 
 bash
 Copy
-git clone https://github.com/your-username/MovieTask.git
+git clone https://github.com/Neena0727/MovieSearchApp.git
 Open the project in Xcode.
 
 bash
 Copy
-open MovieTask.xcodeproj
+open MovieSearchApp.xcodeproj
 Run the project on a simulator or a physical device.
 
 Make sure you have internet access since the app fetches movie data from TMDb.
